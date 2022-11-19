@@ -1,0 +1,8 @@
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\9\9\bin\Debug\9.exe.config
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\9\9\bin\Debug\9.exe
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\9\9\bin\Debug\9.pdb
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\9\9\obj\Debug\9.csproj.AssemblyReference.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\9\9\obj\Debug\9.csproj.SuggestedBindingRedirects.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\9\9\obj\Debug\9.csproj.CoreCompileInputs.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\9\9\obj\Debug\9.exe
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\9\9\obj\Debug\9.pdb

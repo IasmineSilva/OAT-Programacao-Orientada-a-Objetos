@@ -24,8 +24,11 @@ namespace _07
             {
                resultado = n1 + 8;
             }
+            Console.WriteLine("A soma do valor é:" + resultado);
             Console.ReadLine();
 
+
         }
+
     }
 }
