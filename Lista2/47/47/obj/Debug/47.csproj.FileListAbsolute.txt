@@ -1,0 +1,8 @@
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\47\47\bin\Debug\47.exe.config
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\47\47\bin\Debug\47.exe
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\47\47\bin\Debug\47.pdb
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\47\47\obj\Debug\47.csproj.AssemblyReference.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\47\47\obj\Debug\47.csproj.SuggestedBindingRedirects.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\47\47\obj\Debug\47.csproj.CoreCompileInputs.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\47\47\obj\Debug\47.exe
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\47\47\obj\Debug\47.pdb

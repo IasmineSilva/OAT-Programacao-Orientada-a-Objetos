@@ -1,0 +1,3 @@
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\62\62\obj\Debug\62.csproj.AssemblyReference.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\62\62\obj\Debug\62.csproj.SuggestedBindingRedirects.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\62\62\obj\Debug\62.csproj.CoreCompileInputs.cache

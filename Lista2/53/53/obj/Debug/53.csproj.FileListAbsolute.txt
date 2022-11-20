@@ -1,0 +1,8 @@
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\53\53\bin\Debug\53.exe.config
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\53\53\bin\Debug\53.exe
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\53\53\bin\Debug\53.pdb
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\53\53\obj\Debug\53.csproj.AssemblyReference.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\53\53\obj\Debug\53.csproj.SuggestedBindingRedirects.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\53\53\obj\Debug\53.csproj.CoreCompileInputs.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\53\53\obj\Debug\53.exe
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\53\53\obj\Debug\53.pdb

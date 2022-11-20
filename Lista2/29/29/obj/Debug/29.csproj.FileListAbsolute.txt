@@ -1,0 +1,8 @@
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\29\29\bin\Debug\29.exe.config
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\29\29\bin\Debug\29.exe
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\29\29\bin\Debug\29.pdb
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\29\29\obj\Debug\29.csproj.AssemblyReference.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\29\29\obj\Debug\29.csproj.SuggestedBindingRedirects.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\29\29\obj\Debug\29.csproj.CoreCompileInputs.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\29\29\obj\Debug\29.exe
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\29\29\obj\Debug\29.pdb

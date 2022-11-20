@@ -1,0 +1,8 @@
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\60\60\bin\Debug\60.exe.config
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\60\60\bin\Debug\60.exe
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\60\60\bin\Debug\60.pdb
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\60\60\obj\Debug\60.csproj.AssemblyReference.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\60\60\obj\Debug\60.csproj.SuggestedBindingRedirects.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\60\60\obj\Debug\60.csproj.CoreCompileInputs.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\60\60\obj\Debug\60.exe
+C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\60\60\obj\Debug\60.pdb
