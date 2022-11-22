@@ -14,6 +14,7 @@ namespace _60
             x = int.Parse(Console.ReadLine());
             y = int.Parse(Console.ReadLine());
             Console.WriteLine(VerificaQuadrante(x, y));
+            Console.ReadLine();
 
 
         }

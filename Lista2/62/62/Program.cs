@@ -19,7 +19,7 @@ namespace _62
         public static double Hipotenusa(double Base, double Altura)
         {
             double hipotenusa = (Base * Base) + (Altura * Altura);
-            hipotenusa = Math.sqrt(hipotenusa);
+            hipotenusa = Math.Sqrt(hipotenusa);
             return hipotenusa;
         }
     }
