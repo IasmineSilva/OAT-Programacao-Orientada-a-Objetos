@@ -8,13 +8,19 @@ namespace _64
 {
     internal class Program
     {
-        static void Main(string[] args)
-        {
+         private static int[] Vetor = new int[10];
+         public static void Main(string[] args)
+         { 
+
             bool continuar = true;
-            while (continuar)
+            int opcao = 0;
+
+            do
             {
-                Console.WriteLine ("Digite uma opção: ");
-                int opcao = int.Parse(Console.ReadLine());
+
+                Console.WriteLine("Digite 1 para carregar o vetor ");
+                Console.WriteLine("-------------------------------");
+                
                 switch (opcao)
                 {
                     case 1:
@@ -24,37 +30,44 @@ namespace _64
                         Console.WriteLine(ListarVetor());
                         break;
                     case 3:
-                        Console.WriteLine (ListarParesVetor());
+                        Console.WriteLine(ListarParesVetor());
                         break;
                     case 4:
-                        Console.WriteLine (ListarImparesVetor());
+                        Console.WriteLine(ListarImparesVetor());
                         break;
                     case 5:
-                        Console.WriteLine (QuantidadeParesNosImparesVetor());
+                        Console.WriteLine(QuantidadeParesNosImparesVetor());
                         break;
                     case 6:
-                        Console.WriteLine (QuantidadeImparesNosParesVetor());
+                        Console.WriteLine(QuantidadeImparesNosParesVetor());
                         break;
                     case 7:
                         continuar = false;
                         break;
-                    default:
-                        Console.WriteLine ("Número inválido.");
-                        break;
                 }
-            }
-        }
+                Console.WriteLine("Digite uma opção: ");
+                Console.WriteLine("--------------------------------");
+                Console.WriteLine("2 - Para Listar o vetor");
+                Console.WriteLine("3 - Para Exibir os números pares do vetor");
+                Console.WriteLine("4 - Para Exibir os números ímpares do vetor");
+                Console.WriteLine("5 - Para Exibir a quantidade de números pares nas posições ímpares do vetor");
+                Console.WriteLine("6 - Para Exibir a quantidade de números ímpares nas posições pares do vetor");
+                Console.WriteLine("7 - Para Sair");
+                Console.WriteLine("---------------------------------");
+                opcao = int.Parse(Console.ReadLine());
+            } while (continuar);
+         }
+       
         public static void CarregarVetor()
         {
-
             for (int x = 0; x < 10; x++)
             {
-                Console.WriteLine ("Digite o " + (x + 1) + "° número do vetor: ");
-                Vetor[x] = 
+                Console.WriteLine("Digite o " + (x + 1) + "° número do vetor: ");
+                Vetor[x] = int.Parse(Console.ReadLine());
             }
-            Console.WriteLine ("\nVetor carregado com sucesso!\n");
+            Console.WriteLine("\nVetor carregado com sucesso!\n");
         }
-        //2 - Listar Vetor
+        
         public static String ListarVetor()
         {
             String ListaVetor = "Valores do vetor:\n";
@@ -64,7 +77,7 @@ namespace _64
             }
             return ListaVetor;
         }
-        //3 - Exibir apenas os números pares do vetor
+      
         public static String ListarParesVetor()
         {
             String ListaVetor = "Valores do vetor:\n";
@@ -90,6 +103,7 @@ namespace _64
             }
             return ListaVetor;
         }
+      
         public static int QuantidadeParesNosImparesVetor()
         {
             int quantidade = 0;
@@ -102,6 +116,7 @@ namespace _64
             }
             return quantidade;
         }
+        
         public static int QuantidadeImparesNosParesVetor()
         {
             int quantidade = 0;

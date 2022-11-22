@@ -6,3 +6,11 @@ C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\63\63\obj\Debug\63.csproj.S
 C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\63\63\obj\Debug\63.csproj.CoreCompileInputs.cache
 C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\63\63\obj\Debug\63.exe
 C:\Users\iasmi\OneDrive\Área de Trabalho\poo\Lista2\63\63\obj\Debug\63.pdb
+C:\Users\iasmi\OneDrive\Área de Trabalho\NemEuSei\Lista2\63\63\obj\Debug\63.csproj.AssemblyReference.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\NemEuSei\Lista2\63\63\obj\Debug\63.csproj.SuggestedBindingRedirects.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\NemEuSei\Lista2\63\63\obj\Debug\63.csproj.CoreCompileInputs.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\NemEuSei\Lista2\63\63\obj\Debug\63.exe
+C:\Users\iasmi\OneDrive\Área de Trabalho\NemEuSei\Lista2\63\63\obj\Debug\63.pdb
+C:\Users\iasmi\OneDrive\Área de Trabalho\NemEuSei\Lista2\63\63\bin\Debug\63.exe.config
+C:\Users\iasmi\OneDrive\Área de Trabalho\NemEuSei\Lista2\63\63\bin\Debug\63.exe
+C:\Users\iasmi\OneDrive\Área de Trabalho\NemEuSei\Lista2\63\63\bin\Debug\63.pdb

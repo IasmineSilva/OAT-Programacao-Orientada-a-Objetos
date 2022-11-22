@@ -1,0 +1,8 @@
+C:\Users\iasmi\OneDrive\Área de Trabalho\NemEuSei\Lista2\64\64\obj\Debug\64.csproj.AssemblyReference.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\NemEuSei\Lista2\64\64\obj\Debug\64.csproj.SuggestedBindingRedirects.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\NemEuSei\Lista2\64\64\obj\Debug\64.csproj.CoreCompileInputs.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\NemEuSei\Lista2\64\64\bin\Debug\64.exe.config
+C:\Users\iasmi\OneDrive\Área de Trabalho\NemEuSei\Lista2\64\64\bin\Debug\64.exe
+C:\Users\iasmi\OneDrive\Área de Trabalho\NemEuSei\Lista2\64\64\bin\Debug\64.pdb
+C:\Users\iasmi\OneDrive\Área de Trabalho\NemEuSei\Lista2\64\64\obj\Debug\64.exe
+C:\Users\iasmi\OneDrive\Área de Trabalho\NemEuSei\Lista2\64\64\obj\Debug\64.pdb

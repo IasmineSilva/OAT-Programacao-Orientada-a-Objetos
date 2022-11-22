@@ -10,7 +10,7 @@ namespace _59
     {
         static void Main(string[] args)
         {
-            char[] letras = new char[] { 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'x', 'w', 'y', 'z' };
+             char[] letras = new char[] { 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'x', 'w', 'y', 'z' };
 
             Console.WriteLine("Digite a primeira letra: ");
             char caractere = Convert.ToChar(Console.ReadLine());
@@ -19,6 +19,7 @@ namespace _59
 
             Console.WriteLine("Digite a segunda letra: ");
             char outroL = Convert.ToChar(Console.ReadLine());
+           
 
             int segundoL = ContaLetra(outroL, letras);
 
@@ -33,6 +34,7 @@ namespace _59
             {
                 Console.WriteLine("Erro!");
             }
+            Console.ReadLine();
         }
 
         public static int ContaLetra(char ch, char[] letras)

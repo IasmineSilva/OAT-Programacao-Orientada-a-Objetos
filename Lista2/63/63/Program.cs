@@ -8,7 +8,8 @@ namespace _63
 {
     internal class Program
     {
-        static void Main(string[] args)
+
+       public static void Main(string[] args)
         {
             Console.WriteLine("Digite um número: ");
             int numero = int.Parse(Console.ReadLine());
