@@ -10,20 +10,19 @@ namespace _61
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Digite o tamanho da base: ");
-            double BaseHipotenusa = double.Parse(Console.ReadLine());
-            Console.WriteLine ("Digite o tamanho da altura: ");
-            double altura = double.Parse(Console.ReadLine());
-            Console.WriteLine("A hipotenusa é : " + Hipotenusa(BaseHipotenusa, altura));
+           Console.WriteLine("Digite o salario atual: ");
+            double SalarioAtual = double.Parse(Console.ReadLine());
+            Console.WriteLine("Digite o percentual de reajuste: ");
+            double valor = (double.Parse(Console.ReadLine()) / 100);
+            Console.WriteLine("O novo salario é de R$" + ( Reajuste(SalarioAtual, valor )) + ".");
             Console.ReadKey();
         }
-        public static double Hipotenusa(double Base, double Altura)
+
+        public static double Reajuste(double Salario, double IndiceReajuste)
         {
-            double hipotenusa = (Base * Base) + (Altura * Altura);
-            hipotenusa = Math.Sqrt(hipotenusa);
-            return hipotenusa;
+            double NovoSalario = Salario + (Salario * IndiceReajuste);
+            return NovoSalario;
         }
-         
     }
     
 }
