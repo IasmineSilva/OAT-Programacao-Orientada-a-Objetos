@@ -1,0 +1,49 @@
+Questão 1- Qual a diferença  entre Polimorfismo, Herança, Encapsulamento e Abstração?
+
+
+R = Polimorfismo é um termo designado a objetos de classes
+distintas, que podem reagir de uma maneira diferente ao fazerem o uso de um mesmo
+
+método. Na OO você pode enviar uma mesma mensagem para diferentes objetos e fazê-
+los responder da maneira correta. Portanto o polimorfismo é um dos responsáveis pela
+
+especialização de classes em uma aplicação OO, pois comportamentos definidos, mas não
+implementados nas classes mais genéricas, serão implementados nas novas subclasses.
+
+Herança É quando existe a
+necessidade de criar uma classe que herde as propriedades de outra classe, isto é,
+os atributos, métodos e também relacionamentos (associações) da classe superior.
+Os atributos e métodos definidos na classe-mãe são herdados pelas classes filhas.
+
+Encapsulamento é o ato de Encapsular os dados de uma aplicação significa evitar que
+estes sofram acessos indevidos. Para isso, é criada uma estrutura que contém métodos que
+podem ser utilizados por qualquer outra classe, sem causar inconsistências no desenvolvimento de um código. 
+
+Abstração significa "esconder" partes da implementação do objeto expondo apenas uma
+interface simples para seu uso. Pense por exemplo num forno de micro-ondas, você não
+precisa entender toda a complexidade de como os componentes internos trabalham para
+gerar as ondas e produzir calor, você quer apenas apertar um ou dois botões e ter uma
+refeição quente pra comer. Toda essa complexidade são detalhes de implementação, você não precisa conhecê-los.
+
+
+Questão 2 
+
+ Associação representa a relação existente entre objetos. Ela
+descreve o vínculo entre duas classes e geralmente determina que as instâncias de
+uma classe estão de alguma forma ligadas às instâncias da outra classe.
+
+Agregração Demonstra que as informações de um objeto precisam ser complementadas por um
+objeto de outras classes. Nessa relação, a perda do todo não resulta,
+obrigatoriamente, na perda das partes. Sua sintaxe é uma linha com um losango
+branco na classe que corresponde ao todo.
+
+Composição Representa um vínculo mais forte entre objetos-todo e objetos-parte.
+Objetos-parte têm que pertencer ao objeto-todo. A composição representa um forte
+relacionamento, em que as partes não sobrevivem sem o todo. Sua sintaxe é a de
+uma linha com um losango preto na classe que corresponde ao todo.
+
+Generalização - É
+identificar super-classe (geral) e sub-classes (especializadas). É quando existe a
+necessidade de criar uma classe que herde as propriedades de outra classe, isto é,
+os atributos, métodos e também relacionamentos (associações) da classe superior.
+Os atributos e métodos definidos na classe-mãe são herdados pelas classes filhas.

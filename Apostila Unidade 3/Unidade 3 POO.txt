@@ -1,0 +1,22 @@
+questão 1
+
+• Ilustrar modelos de dados para sistemas de informação, não importa quão simples
+ou complexo seja.
+• Entender melhor a visão geral dos esquemas de uma aplicação.
+• Expressar visualmente as necessidades específicas de um sistema e divulgar essas
+informações por toda a empresa.
+• Criar gráficos detalhados que destacam qualquer código específico necessário para
+ser programado e implementado na estrutura descrita.
+• Fornecer uma descrição independente de implementação de tipos utilizados em um
+sistema e passados posteriormente entre seus componentes.
+
+questão 2
+
+Um array é um conjunto de elementos de um mesmo tipo de dados onde cada elemento do
+conjunto é acessado pela posição no array que é dada através de um índice (uma
+sequência de números inteiros). Um array de uma dimensão é também conhecido como
+vetor, e, um array de mais de uma dimensão é conhecido como uma matriz.
+O uso de arrays é muito importante em qualquer linguagem de programação, porém é
+preciso ter atenção ao manusear informações presentes em um array. Iremos limitar ao
+tamanho de 10 elementos. Para isso também iremos acrescentar métodos para manipular
+os arrays simulando uma tabela presente em um banco de dados.

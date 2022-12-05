@@ -1,8 +1,0 @@
-C:\Users\iasmi\OneDrive\Área de Trabalho\poo\02\02\bin\Debug\02.exe.config
-C:\Users\iasmi\OneDrive\Área de Trabalho\poo\02\02\bin\Debug\02.exe
-C:\Users\iasmi\OneDrive\Área de Trabalho\poo\02\02\bin\Debug\02.pdb
-C:\Users\iasmi\OneDrive\Área de Trabalho\poo\02\02\obj\Debug\02.csproj.AssemblyReference.cache
-C:\Users\iasmi\OneDrive\Área de Trabalho\poo\02\02\obj\Debug\02.csproj.SuggestedBindingRedirects.cache
-C:\Users\iasmi\OneDrive\Área de Trabalho\poo\02\02\obj\Debug\02.csproj.CoreCompileInputs.cache
-C:\Users\iasmi\OneDrive\Área de Trabalho\poo\02\02\obj\Debug\02.exe
-C:\Users\iasmi\OneDrive\Área de Trabalho\poo\02\02\obj\Debug\02.pdb
