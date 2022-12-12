@@ -1,0 +1,8 @@
+C:\Users\iasmi\OneDrive\Área de Trabalho\NemEuSei\Apostila Unidade 4\ex 03\ex 03\obj\Debug\ex 03.csproj.AssemblyReference.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\NemEuSei\Apostila Unidade 4\ex 03\ex 03\obj\Debug\ex 03.csproj.SuggestedBindingRedirects.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\NemEuSei\Apostila Unidade 4\ex 03\ex 03\obj\Debug\ex 03.csproj.CoreCompileInputs.cache
+C:\Users\iasmi\OneDrive\Área de Trabalho\NemEuSei\Apostila Unidade 4\ex 03\ex 03\bin\Debug\ex 03.exe.config
+C:\Users\iasmi\OneDrive\Área de Trabalho\NemEuSei\Apostila Unidade 4\ex 03\ex 03\bin\Debug\ex 03.exe
+C:\Users\iasmi\OneDrive\Área de Trabalho\NemEuSei\Apostila Unidade 4\ex 03\ex 03\bin\Debug\ex 03.pdb
+C:\Users\iasmi\OneDrive\Área de Trabalho\NemEuSei\Apostila Unidade 4\ex 03\ex 03\obj\Debug\ex 03.exe
+C:\Users\iasmi\OneDrive\Área de Trabalho\NemEuSei\Apostila Unidade 4\ex 03\ex 03\obj\Debug\ex 03.pdb
